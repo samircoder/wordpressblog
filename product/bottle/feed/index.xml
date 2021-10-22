@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Bottle	</title>
+	<atom:link href="/ https://samircoder.github.io/wordpressblog/product/bottle/feed/" rel="self" type="application/rss+xml" />
+	<link>/ https://samircoder.github.io/wordpressblog/product/bottle/</link>
+	<description>Heaven is Myth Nepal is real</description>
+	<lastBuildDate>Sat, 14 Aug 2021 05:40:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: samir		</title>
+		<link>/ https://samircoder.github.io/wordpressblog/product/bottle/#comment-6</link>
+
+		<dc:creator><![CDATA[samir]]></dc:creator>
+		<pubDate>Thu, 12 Aug 2021 04:50:41 +0000</pubDate>
+		<guid isPermaLink="false">/ https://samircoder.github.io/wordpressblog/?post_type=product&#038;p=37#comment-6</guid>
+
+					<description><![CDATA[bahot hard]]></description>
+			<content:encoded><![CDATA[<p>bahot hard</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: admin		</title>
+		<link>/ https://samircoder.github.io/wordpressblog/product/bottle/#comment-5</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 12 Aug 2021 04:49:18 +0000</pubDate>
+		<guid isPermaLink="false">/ https://samircoder.github.io/wordpressblog/?post_type=product&#038;p=37#comment-5</guid>
+
+					<description><![CDATA[best product till now]]></description>
+			<content:encoded><![CDATA[<p>best product till now</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
